@@ -103,7 +103,7 @@ const content = {
   // Front shows name, day, date, time; back reveals description, attire, location, and notes.
   events: [
     {
-      name: "Baraat & Ghurchari",
+      name: "Baraat Swagat",
       day: "Sunday",
       date: "December 6, 2026",
       time: "10:30 AM",
