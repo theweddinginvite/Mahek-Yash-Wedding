@@ -106,7 +106,7 @@ const content = {
       name: "Baraat Swagat",
       day: "Sunday",
       date: "December 6, 2026",
-      time: "10:30 AM",
+      time: "12:00 PM",
       description: "The groom's royal dancing procession with festive dhol beats and celebration.",
       attire: "Ethnic Wear",
       location: "Resort Entrance to Mandap",

@@ -6,7 +6,7 @@ import "./GalleryUploadModal.css";
 
 const CEREMONIES = [
   "General / All Events",
-    "Baraat & Jaimaal (Dec 6, 10:30 AM)",
+  "Baraat & Jaimaal (Dec 6, 12:00 PM)",
   "Phere (Dec 6, 5:00 PM)",
 ];
 
